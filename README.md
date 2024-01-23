@@ -34,7 +34,7 @@ Certifique-se de ter o Node.js e o Yarn instalados em sua máquina.
 
   yarn dev
 ```
-A API estará disponível em http://localhost:3000.
+A API estará disponível em http://localhost:3001.
 
 
 Endpoints
