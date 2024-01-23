@@ -9,7 +9,7 @@ export class ListClientRequest {
   @IsOptional()
   cellphone?: string;
 
-  @IsEmail()
+  @IsString()
   @IsOptional()
   email?: string;
 }
