@@ -68,6 +68,12 @@ Scripts
     yarn start: Inicia o servidor de produção.
     yarn dev: Inicia o servidor de desenvolvimento.
 
+
+
+## Versionamento
+API esta utiliando a estrategia de versionamento na URI é uma opção comum e simples. Outras estratégias incluem versionamento baseado em cabeçalho ou versionamento baseado no consumidor.
+
+
 Licença
 
 Este projeto é licenciado sob a MIT License.
